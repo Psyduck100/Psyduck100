@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Roger 👋
 
-<!--
-**Psyduck100/Psyduck100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Projects
+- [Momentum Trend System - Python, Pandas asset trading framework](https://github.com/Psyduck100/MomentumTrendSystem)
+- [Routes – Full-stack route sharing app](https://github.com/Psyduck100/Routes)
+- [Thryvv - B2B Prototype](https://github.com/Psyduck100/Thryvv-Prototype)
+- [Sudoku Solver - Cool App I made a while ago - pure CSS HTML and JS](https://github.com/Psyduck100/Sudoku-Solver.github.io)
 
-Here are some ideas to get you started:
+## 🌐 External Links
+- [Medium | Finance / Macro-economical articles](https://medium.com/@psyduck100)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+That's it for now or maybe I'll remember to add some other stuff I've forgotten abt 🥀
