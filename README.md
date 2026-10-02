@@ -4,8 +4,9 @@ Fourth-year CS student at the University of Toronto! I build software, am super 
 
 ## 🚀 Projects
 - [Momentum Trend System - Python, Pandas asset trading framework](https://github.com/Psyduck100/MomentumTrendSystem)
-- [Routes – Full-stack route sharing app](https://github.com/Psyduck100/Routes)
+- [Operating System in C](https://github.com/Psyduck100/c-operating-system)
 - [Thryvv - B2B Prototype](https://github.com/Psyduck100/Thryvv-Prototype)
+- [Routes – Full-stack route sharing app](https://github.com/Psyduck100/Routes)
 - [Sudoku Solver - Cool App I made a while ago - pure CSS HTML and JS](https://github.com/Psyduck100/Sudoku-Solver.github.io)
 
 
